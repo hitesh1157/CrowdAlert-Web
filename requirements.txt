@@ -79,7 +79,7 @@ six==1.11.0
 tensorboard==1.8.0
 tensorflow==1.8.0
 termcolor==1.1.0
-Twisted==19.2.0
+Twisted==20.3.0
 txaio==18.8.1
 typing==3.6.6
 typing-extensions==3.7.2
